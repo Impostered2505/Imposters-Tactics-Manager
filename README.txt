@@ -11,16 +11,19 @@ History of versions:
 
 A.0.0 - 1st version. Won't be released. Although maybe much later I’ll add it to some version.
 
-A.0.1.ITM.C - Concept of the future version A.0.1.ITM (new interface, icons, themes, etc.)
+A.0.1.ITM.C - Concept of the future A.0.1.ITM version (new interface, icons, themes, etc.)
+
+A.0.1.ITM - Added ball, improved features, new interface, icons, themes, etc.
 
 
 
 Plans:
 
-- more languages (English, Spanish)
-- new friendly UI
-- new features (Help tab, improved player and pitch controls, movement arrows, and the ability to add and customize a bench)
+- More languages (English, Spanish)
+- New friendly UI
+- New features (Help tab, improved player and pitch controls, movement arrows, and the ability to add and customize a bench)
+- (Optional) Win the Premier League and Champions League
 
 My long-term plans include releasing the program and making it possible to create realistic professional tactics and training methods based on the capabilities of a team's squad.
 
-PS: Liverpool is the best FC itw YNWA
+PS: Liverpool still the best club itw. YNWA
